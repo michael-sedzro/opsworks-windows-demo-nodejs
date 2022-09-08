@@ -11,5 +11,5 @@
     "url": "https://github.com/awslabs/opsworks-windows-example-nodejs"
   },
   "license": "Apache 2.0",
-  "description": "A sample Node.JS application for AWS OpsWorks"
+  "description": "Hello World"
 }
